@@ -13,6 +13,7 @@ to run the program type in cmd: `python googleRSS.py`
 
 
 
+![cmdscreenshot](https://user-images.githubusercontent.com/36610564/191624143-fb0f4e01-d78d-430a-b397-9b98335b209f.png)
 
 
 
