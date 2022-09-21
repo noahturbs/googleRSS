@@ -16,6 +16,7 @@ to run the program type in cmd: `python googleRSS.py`
 ![cmdscreenshot](https://user-images.githubusercontent.com/36610564/191624143-fb0f4e01-d78d-430a-b397-9b98335b209f.png)
 
 
+![image](https://user-images.githubusercontent.com/36610564/191624476-ae4f41c6-ecb9-4836-9008-9e7ee6e3a386.png)
 
 
 ## Summary:
