@@ -24,9 +24,12 @@ this library uses RSS requests, which is easier to use than google search engine
 
 google still doesn't like it if a computer is spam requesting RSS; if you spam it too much with scripts, your ip will be blacklisted.
 
+here is a blogpost of the specifications and limitations of RSS: 
+https://web.archive.org/web/20210223173539/https://blog.newscatcherapi.com/google-news-rss/
+
 ### Recommendations to upgrade in the near future:
 
--use a proxy (this can hide your ip so you can make more requests. this can be done with some lines of code, or some kind of virtual environment)
+-use a proxy (this can hide your ip so you can make more requests. this can be done with some lines of code, or some kind of virtual machine)
 
 -use a rotating list of proxies
 
