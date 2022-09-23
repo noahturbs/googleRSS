@@ -20,7 +20,7 @@ to run the program type in cmd: `python googleRSS.py`
 
 
 ## Summary:
-this library uses RSS requests, which is easier to use than google search engine API.
+this library uses RSS requests, which is easier to use than google search engine API. A single request can return 100 articles, but for the sake of readability I only print out 5. (you can change the code to see more articles)
 
 google still doesn't like it if a computer is spam requesting RSS; if you spam it too much with scripts, your ip will be blacklisted.
 
