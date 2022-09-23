@@ -9,7 +9,7 @@ queryString = input('Enter search topic: ex \'McDonalds\'\n')
 results = gnf.query(queryString)
 #sends a a request for RSS feed
 
-print('printing the top 5 results:\n') #max length of a single query for RSS is 100 articles.
+print('printing the top 5 (out of 100) results:\n') #max length of a single query for RSS is 100 articles.
 
 #len(results)
 #this usually prints '100', unless there are not enough articles with that search term
