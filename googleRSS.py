@@ -14,7 +14,7 @@ print('printing the top 5 (out of 100) results:\n') #max length of a single quer
 #len(results)
 #this usually prints '100', unless there are not enough articles with that search term
 
-for i in range(5):
+for i in range(5): #supports up to 100 articles
 
     print(str(i) + '-th result below:')
     print('Title: ' + results[i].title)
